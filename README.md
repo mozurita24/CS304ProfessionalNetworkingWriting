@@ -4,7 +4,7 @@
 
 #Introduction
 
-The Restaurant Billing System is a C++ program designed to handle the billing process at “Mo’s BEVERAGES.” The purpose of this program is to help restaurant staff efficiently calculate bills, apply discounts, and generate receipts for customers. This README document provides an overview of the program, its functionalities, and how to use it.
+The Restaurant Billing System is a C++ program designed to handle the billing process at “Mos BEVERAGES.” The purpose of this program is to help restaurant staff efficiently calculate bills, apply discounts, and generate receipts for customers. This README document provides an overview of the program, its functions, and how to use it.
 
 #Methodology
 
@@ -13,7 +13,7 @@ The Restaurant Billing System is a C++ program designed to handle the billing pr
 	1.	Daily Specials: The program allows users to check if there are any daily specials.
 	2.	Menu Selection: Users can select items from the restaurants menu.
 	3.	Tip Selection: Users can choose a tip percentage from predefined options (15%, 18%, 20%) or enter a custom tip percentage.
-	4.	Server’s Name: The program asks for the servers first and last name.
+	4.	Servers Name: The program asks for the servers first and last name.
 	5.	Number of Beverages: Users need to enter the number of beverages ordered.
 
 -Outputs
